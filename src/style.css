@@ -1,0 +1,49 @@
+span.path-dir
+{
+    /*border: 3px solid green;
+    border-bottom:  2px solid green;
+    border-radius: 3px;*/
+    padding: 0.3em;
+    margin: 0;
+}
+
+div.path
+{
+    margin: 1em;
+}
+
+img.icon
+{
+    height: 1em;
+}
+
+.folder
+{
+    color: green;
+}
+
+.file
+{
+    color: blue;
+}
+
+.misc
+{
+    color: orange;
+}
+
+td
+{
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+
+table
+{
+    margin: 1em;
+}
+
+p.message
+{
+    margin: 1em;
+}

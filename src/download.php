@@ -12,7 +12,7 @@
         header('Content-Length: '.filesize($file));
         header('Pragma: public');
 
-        // letti e muori
+        // leggi e muori
         readfile($file);
         die();
     }
